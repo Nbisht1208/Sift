@@ -36,7 +36,7 @@ pip install sift-dqe
 
 ```
 
-*(For development/source installation, see [Project Structure](https://github.com/PranavKndpl/Sift?tab=readme-ov-file#-project-structure--development))*
+*(For development/source installation, see [Project Structure](https://github.com/Nbisht1208/Sift?tab=readme-ov-file#-project-structure--development))*
 
 ### 2. Run the Interactive Demo
 
