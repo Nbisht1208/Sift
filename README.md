@@ -137,5 +137,5 @@ sift/
 
 ## ⚠️ Known Limitations
 
-Sift is designed to be **safe**, which means it has specific operational boundaries (e.g., small dataset sensitivity, Benford's law gating). Please read the full [Failure Modes Documentation](https://github.com/PranavKndpl/Sift/blob/main/docs/failure_modes.md) before deploying in production.
+Sift is designed to be **safe**, which means it has specific operational boundaries (e.g., small dataset sensitivity, Benford's law gating). Please read the full [Failure Modes Documentation](https://github.com/Nbisht1208/Sift/blob/main/docs/failure_modes.md) before deploying in production.
 
